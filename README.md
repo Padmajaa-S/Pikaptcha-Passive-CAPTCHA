@@ -3,6 +3,7 @@
 # PIKAPTCHA - Passive Captcha Solution
 
 **PIKAPTCHA** is a 2-layer machine learning-based CAPTCHA solution designed for seamless bot detection and prevention against DOS and DDOS attacks. Unlike traditional CAPTCHAs, PIKAPTCHA uses passive data collection and minimal user interaction to identify and block bot activities while ensuring a smooth user experience. 
+![FINAL](https://github.com/user-attachments/assets/40d90625-0141-494a-830e-11d5add592b6)
 
 ## Features
 - **Behavioral Analysis**: Uses typing patterns, mouse movement trajectories, pauses, touch sensitivity, scrolling patterns, and device fingerprinting to detect bot-like behavior.
